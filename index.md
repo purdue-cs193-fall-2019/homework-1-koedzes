@@ -1,3 +1,10 @@
+# Kyle Oedzes's First CS193 Homework
+
+## Favorite Things about CS193
+- It is a nice and relaxed introduction into CS
+- The instructors seem cool and chill
+- It is a good GPA booster
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,14 +18,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Kyle Oedzes's First CS193 Homework
+# Header 1
 ## Header 2
 ### Header 3
-
-## Favorite Things about CS193
-- It is a nice and relaxed introduction into CS
-- The instructors seem cool and chill
-- It is a good GPA booster
 
 - Bulleted
 - List
